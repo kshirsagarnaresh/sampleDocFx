@@ -1,0 +1,215 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/naresh_kshirsagar/Downloads/DocFx-Demo-master/DocFx-Demo-master/DocFx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Abstract.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Abstract.html",
+          "hash": "IlZDEArXV9J/hHeeXWKG0C7i0b9KbcyLh6tw6yTidpo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Advanced/Abstract.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Advanced/Abstract.html",
+          "hash": "5XqRLKSmtp2bbK5VSyCwsLjKpd7Jmdb14VHExcume7g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Advanced/Advanced.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Advanced/Advanced.html",
+          "hash": "4AOjOwmDnTB3x7dPRaa75DocA+I3wh4DF53OliatQ7c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Easy/Abstract.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Easy/Abstract.html",
+          "hash": "hfjcuAbRpi3PfMwDLjDV1Ojr7E/Kk5GexfrnEbVc7Zo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Easy/Easy.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Easy/Easy.html",
+          "hash": "0cj8ChXE9G/j3qV7FddQ0U3u0u7le804I9Y9fElgQ+E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Concepts/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/toc.html",
+          "hash": "U6ecBO+EfP8zgqQbQ2bij2FAxVlfZkbcUGJg2Vh3ccQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "cL8O/raAcgrJnuXHIrgp2D7xvwmpiTQX0LYKGPoW7ew="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "reference/Desktop.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/Desktop.Form1.html",
+          "hash": "HMtmGhhJs7ROWnZ0Tey73w/JNbL2pXp3Vbc+9SCTxl4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "reference/Desktop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/Desktop.html",
+          "hash": "OlCmakUJfv2NA8hj8UbPsZA+DzY5QqvhBHUxnp7i9J8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "reference/Lib.Class1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/Lib.Class1.html",
+          "hash": "FYXbYdCuJq9IY3aZfirqzIIq7Gw+Gw22h+GSyAmKxE4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "reference/Lib.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/Lib.html",
+          "hash": "ycCs2zhYElh8+yTuLeydZ0g/1nBK8obr7Q+bEx6ky1I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/toc.html",
+          "hash": "bZCx5d2fiHguA8UvKmAFzfGgoMoWaZfqoiOcYTTKT/Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "RttXBOlNwrt5idkNiDd54HjDkUKq06Uctk9q7mOVOWU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
